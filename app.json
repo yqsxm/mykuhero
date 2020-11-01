@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "62f743fc-7089-4dd3-8b4b-71bf3d91ee00"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/mixool/kuhero/blob/master/etc/CADDYIndexPage.md",
@@ -17,18 +17,18 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/mixool/kuhero/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/yqsxm/mykuhero/master/etc/Caddyfile"
         },
         "CONFIGV2RAY": {
             "description": "自定义网络地址读取配置运行V2RAY，不熟悉V2RAY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/mixool/kuhero/master/etc/v2ray.json"
+            "value": "https://raw.githubusercontent.com/yqsxm/mykuhero/master/etc/v2ray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
             "value": "chacha20-ietf-poly1305"
         }
     },
-    "website": "https://github.com/mixool/kuhero",
-    "repository": "https://github.com/mixool/kuhero",
+    "website": "https://github.com/yqsxm/mykuhero",
+    "repository": "https://github.com/yqsxm/mykuhero",
     "stack": "container"
 }
